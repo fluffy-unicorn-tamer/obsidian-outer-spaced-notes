@@ -1,1 +1,1 @@
-
+# obsidian outer spaced notes
